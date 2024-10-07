@@ -20,29 +20,34 @@ typedef unsigned long long llu;
 const int INF = 0x3f3f3f3f;
 const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 
-llu solve(llu l, llu r) {
+ll get_bit(ll x, int at) {
+    return x & (1LL << at);
+}
+
+ll solve(ll l, ll r) {
     if (l == r) return l;
     
-    llu mxpot2, aux = r;
-    while (aux > 0) {
-        mxpot2 = aux;
-        aux = aux & (aux - 1);
+    int at = 62;
+    ll candidato = 0;
+    while (get_bit(l, at) == get_bit(r, at)) {
+        candidato |= get_bit(l, at);
+        at--;
     }
 
-    if (mxpot2 <= l) return solve(l - mxpot2, r - mxpot2) + mxpot2;
-    if (mxpot2 * 2 - 1 == r) return mxpot2 * 2 - 1;
-    return mxpot2 - 1;
+    // 2^at = 1000..., 2^at - 1 = 0111...
+    candidato |= (1LL << at) - 1;
+    return (__builtin_popcountll(r) > __builtin_popcountll(candidato) ? r : candidato); 
+
 } 
 
 int main() { _
     int q;
-    llu l, r;
+    ll l, r;
     
     cin >> q;
     while (q--) {
         cin >> l >> r;
-        llu ans = solve(l, r);
-        cout << ans << endl;
+        cout << solve(l, r) << endl;
     }
     
     return 0;
