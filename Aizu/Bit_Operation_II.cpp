@@ -1,6 +1,6 @@
 /**
 * @file Bit_Operation_II.cpp
-* https://codeforces.com/group/OyefIGO3t4/contest/447265/problem/B
+* https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_B
 *
 * Created on 2024-10-07 at 00:06:55
 * @author GabrielCampelo
