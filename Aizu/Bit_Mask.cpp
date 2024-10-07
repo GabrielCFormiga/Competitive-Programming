@@ -1,6 +1,6 @@
 /**
 * @file Bit_Mask.cpp
-* https://codeforces.com/group/OyefIGO3t4/contest/447265/problem/D
+* https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_D
 *
 * Created on 2024-10-07 at 00:53:41
 * @author GabrielCampelo

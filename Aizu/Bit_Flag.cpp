@@ -1,6 +1,6 @@
 /**
 * @file Bit_Flag.cpp
-* https://codeforces.com/group/OyefIGO3t4/contest/447265/problem/C
+* https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_C
 *
 * Created on 2024-10-07 at 00:19:52
 * @author GabrielCampelo
