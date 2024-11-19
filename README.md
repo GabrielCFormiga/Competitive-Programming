@@ -6,6 +6,8 @@ The structure of the repository is simple: each folder is named according to the
 
 Additionally, most problems are mapped by **topic** and can be easily accessed in the [**Problem Set**](#Problem-Set).
 
+I have categorized the problems as **easy**, **medium**, or **hard** based on my own perspective. While these classifications are subjective, they aim to reflect the effort and thought required to solve each problem.
+
 ## Judges
 
 This repository contains solutions from the following online judges:
@@ -22,27 +24,33 @@ This repository contains solutions from the following online judges:
 
 ## Problem Set
 
+---
+
 ### Binary Search
 
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
-| [**Binary Search**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A) | **Array Search** | 🟢 **Proposed** |
-| [**Closest to the left**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) | **Array Search** | 🟢 **Proposed** |
-| [**Closest to the right**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) | **Array Search** | 🟢 **Proposed** |
-| [**Fast Search**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | **Array Search** | 🔵 **Supplementary** |
-| [**Packing Rectangles**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A) | **Search for Valid Answers** | 🟢 **Proposed** |
-| [**Very Easy Task**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C) | **Search for Valid Answers** | 🟢 **Proposed** |
-| [**Students Councils**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G) | **Search for Valid Answers** | 🔵 **Supplementary** |
-| [**Magic Powder - 1**](https://codeforces.com/problemset/problem/670/D1) | **Search for Valid Answers** | 🔵 **Supplementary** |
-| [**Children Holiday**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D) | **Search for Valid Answers** | 🔴 **Advanced** |
-| [**String Game**](https://codeforces.com/problemset/problem/778/A) | **Search for Valid Answers** | 🔴 **Advanced** |
-| [**Hamburguer**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H) | **Search for Valid Answers** | 🔴 **Advanced** |
-| [**Ropes**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B) | **Search with Real Numbers** | 🟢 **Proposed** |
-| [**Equation**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E) | **Search with Real Numbers** | 🔵 **Supplementary** |
-| [**Solve it!**](https://vjudge.net/problem/UVA-10341) | **Search with Real Numbers** | 🔴 **Advanced** |
-| [**Get together**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/A) | **Minmax** | 🟢 **Proposed** |
-| [**Splitting an Array**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/B) | **Minmax** | 🟢 **Proposed** |
-| [**March Rain**](https://codeforces.com/gym/101028/problem/I) | **Minmax** | 🔵 **Supplementary** |
-| [**Cows in Stalls**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/C) | **Minmax** | 🔵 **Supplementary** |
+| [**Binary Search**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A) | **Array Search** | 🟢 **Easy** |
+| [**Closest to the left**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) | **Array Search** | 🟢 **Easy** |
+| [**Closest to the right**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) | **Array Search** | 🟢 **Easy** |
+| [**Fast Search**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | **Array Search** | 🔵 **Medium** |
+| [**Packing Rectangles**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A) | **Search for Valid Answers** | 🟢 **Easy** |
+| [**Very Easy Task**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C) | **Search for Valid Answers** | 🟢 **Easy** |
+| [**Students Councils**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G) | **Search for Valid Answers** | 🔵 **Medium** |
+| [**Magic Powder - 1**](https://codeforces.com/problemset/problem/670/D1) | **Search for Valid Answers** | 🔵 **Medium** |
+| [**Children Holiday**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D) | **Search for Valid Answers** | 🔴 **Hard** |
+| [**String Game**](https://codeforces.com/problemset/problem/778/A) | **Search for Valid Answers** | 🔴 **Hard** |
+| [**Hamburguer**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H) | **Search for Valid Answers** | 🔴 **Hard** |
+| [**Ropes**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B) | **Search with Real Numbers** | 🟢 **Easy** |
+| [**Equation**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E) | **Search with Real Numbers** | 🔵 **Medium** |
+| [**Solve it!**](https://vjudge.net/problem/UVA-10341) | **Search with Real Numbers** | 🔴 **Hard** |
+| [**Get together**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/A) | **Minmax** | 🟢 **Easy** |
+| [**Splitting an Array**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/B) | **Minmax** | 🟢 **Easy** |
+| [**March Rain**](https://codeforces.com/gym/101028/problem/I) | **Minmax** | 🔵 **Medium** |
+| [**Cows in Stalls**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/C) | **Minmax** | 🔵 **Medium** |
+| [**Minimum maximum on the Path**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/D) | **Minmax** | 🔴 **Hard** |
+| [**Maximum Average Segment**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/A) | **Maximum Average** | 🟢 **Easy** |
+| [**Pair Selection**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/C) | **Maximum Average** | 🟢 **Easy** |
+| [**Minimum Average Path**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/B) | **Maximum Average** | 🔴 **Hard** |
 
 ---
