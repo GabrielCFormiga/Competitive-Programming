@@ -24,6 +24,10 @@ This repository contains solutions from the following online judges:
 
 ## Problem Set
 
+- [**Binary Search**](#Binary-Search)
+- [**Two Pointers Method**](#Two-Pointers-Method)
+
+
 ---
 
 ### Binary Search
@@ -52,5 +56,17 @@ This repository contains solutions from the following online judges:
 | [**Maximum Average Segment**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/A) | **Maximum Average** | 🟢 **Easy** |
 | [**Pair Selection**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/C) | **Maximum Average** | 🟢 **Easy** |
 | [**Minimum Average Path**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/B) | **Maximum Average** | 🔴 **Hard** |
+
+---
+
+### Two Pointers Method
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Merging Arrays**](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A) | **Two Pointers Method** | 🟢 **Easy** |
+| [**Number of Smaller**](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) | **Two Pointers Method** | 🟢 **Easy** |
+| [**Number of Equal**](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) | **Two Pointers Method** | 🟢 **Easy** |
+| [**Counting Kangaroos is Fun**](https://codeforces.com/problemset/problem/372/A) | **Two Pointers Method** | 🟢 **Easy** |
+| [**Books**](https://codeforces.com/problemset/problem/279/B) | **Two Pointers Method** | 🟢 **Easy** |
 
 ---
