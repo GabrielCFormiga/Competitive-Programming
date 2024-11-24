@@ -60,7 +60,15 @@ This repository contains solutions from the following online judges:
 | [**Multiplication Table**](https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/B) | **Finding the K-th Element** | 🔵 **Medium** |
 | [**K-th Sum**](https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/C) | **Finding the K-th Element** | 🔵 **Medium** |
 
+---
 
+### Disjoint Sets Union
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Disjoint Sets Union**](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/A) | **Disjoint Sets Union** | 🟢 **Easy** |
+| [**Disjoint Sets Union 2**](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/B) | **Disjoint Sets Union** | 🟢 **Easy** |
+| [**Experience**](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C) | **Disjoint Sets Union** | 🔵 **Medium** |
 
 ---
 
