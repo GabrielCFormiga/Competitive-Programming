@@ -55,7 +55,12 @@ This repository contains solutions from the following online judges:
 | [**Minimum maximum on the Path**](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/D) | **Minmax** | 🔴 **Hard** |
 | [**Maximum Average Segment**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/A) | **Maximum Average** | 🟢 **Easy** |
 | [**Pair Selection**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/C) | **Maximum Average** | 🟢 **Easy** |
-| [**Minimum Average Path**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/B) | **Maximum Average** | 🔴 **Hard** |
+| [**Minimum Average Path**](https://codeforces.com/edu/course/2/lesson/6/4/practice/contest/285069/problem/B) | **Minimum Average** | 🔴 **Hard** |
+| [**K-th Number in the Union of Segments**](https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/A) | **Finding the K-th Element** | 🟢 **Easy** |
+| [**Multiplication Table**](https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/B) | **Finding the K-th Element** | 🔵 **Medium** |
+| [**K-th Sum**](https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/C) | **Finding the K-th Element** | 🔵 **Medium** |
+
+
 
 ---
 
