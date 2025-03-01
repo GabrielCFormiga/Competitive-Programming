@@ -78,6 +78,22 @@ This repository contains solutions from the following online judges:
 
 ---
 
+### Math
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Young Physicist**](https://codeforces.com/problemset/problem/69/A) | **Implementation** | 🟢 **Easy** |
+
+---
+
+### Number Theory
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Lucky Division**](https://codeforces.com/problemset/problem/122/A) | **Brute Force** | 🟢 **Easy** |
+
+---
+
 ### Two Pointers Method
 
 | **Problem** | **Category** | **Difficulty** |
@@ -90,5 +106,15 @@ This repository contains solutions from the following online judges:
 | [**Segment with Big Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B) | **Segment with good sum** | 🟢 **Easy** |
 | [**Number of Segments with Small Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C) | **Segment with good sum** | 🟢 **Easy** |
 | [**Number of Segments with Big Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D) | **Segment with good sum** | 🟢 **Easy** |
+
+---
+
+### Strings
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**String Task**](https://codeforces.com/problemset/problem/118/A) | **Implementation** | 🟢 **Easy** |
+| [**Chat room**](https://codeforces.com/problemset/problem/58/A) | **Greedy** | 🟢 **Easy** |
+| [**Lucky Substring**](https://codeforces.com/problemset/problem/122/B) | **Brute Force** | 🟢 **Easy** |
 
 ---
