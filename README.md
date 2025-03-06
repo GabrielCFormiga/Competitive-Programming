@@ -64,6 +64,14 @@ This repository contains solutions from the following online judges:
 
 ---
 
+### Data Structures
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Bad Sequence**](https://codeforces.com/problemset/problem/1214/C) | **Greedy** | 🟢 **Easy** |
+
+---
+
 ### Disjoint Sets Union
 
 | **Problem** | **Category** | **Difficulty** |
