@@ -83,6 +83,7 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Young Physicist**](https://codeforces.com/problemset/problem/69/A) | **Implementation** | 🟢 **Easy** |
+| [**Shell Game**](https://codeforces.com/problemset/problem/777/A) | **Implementation** | 🟢 **Easy** |
 | [**Expression**](https://codeforces.com/problemset/problem/479/A) | **Brute Force** | 🟢 **Easy** |
 
 ---
