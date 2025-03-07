@@ -104,6 +104,17 @@ This repository contains solutions from the following online judges:
 
 ---
 
+### Prefix Sums
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/) | **Target Sum** | 🟢 **Easy** |
+| [**Subarray Sums II**](https://cses.fi/problemset/task/1661/) | **Target Sum** | 🟢 **Easy** |
+| [**Subarray Divisibility**](https://cses.fi/problemset/task/1662/) | **Target Divisibility** | 🟢 **Easy** |
+| [**Forest Queries**](https://cses.fi/problemset/task/1652/) | **2D Prefix Sums** | 🟢 **Easy** |
+
+---
+
 ### Two Pointers Method
 
 | **Problem** | **Category** | **Difficulty** |
@@ -112,6 +123,7 @@ This repository contains solutions from the following online judges:
 | [**Number of Smaller**](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) | **Two Pointers Method** | 🟢 **Easy** |
 | [**Number of Equal**](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) | **Two Pointers Method** | 🟢 **Easy** |
 | [**Counting Kangaroos is Fun**](https://codeforces.com/problemset/problem/372/A) | **Two Pointers Method** | 🟢 **Easy** |
+| [**Subarray Sums I**](https://cses.fi/problemset/task/1660) | **Segment with good sum** | 🟢 **Easy** |
 | [**Books**](https://codeforces.com/problemset/problem/279/B) | **Segment with good sum** | 🟢 **Easy** |
 | [**Segment with Big Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B) | **Segment with good sum** | 🟢 **Easy** |
 | [**Number of Segments with Small Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C) | **Segment with good sum** | 🟢 **Easy** |
