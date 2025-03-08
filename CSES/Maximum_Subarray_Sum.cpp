@@ -1,8 +1,9 @@
 /**
-* @file Subarray_Divisibility.cpp
-* https://cses.fi/problemset/task/1662
+* @file Maximum_Subarray_Sum.cpp
+* https://cses.fi/problemset/task/1643
+* Kadane
 *
-* Created on 2025-03-06 at 15:30:55
+* Created on 2025-03-07 at 09:56:19
 * @author GabrielCampelo
 */
 
@@ -20,27 +21,20 @@ typedef unsigned long long llu;
 const int INF = 0x3f3f3f3f;
 const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 
-int n, x;
-
 int main() { _
+    int  n;
     cin >> n;
 
-    vector<int> sums(n);
-
-    sums[0] = 1;
-
-    ll prefix = 0, aux, cnt = 0;
+    ll curr = -INF, mx = -INF, aux;
 
     for (int i = 0; i < n; i++) {
         cin >> aux;
-        prefix = (prefix + aux % n + n) % n;
 
-        cnt += sums[prefix];
-        
-        sums[prefix]++;
+        curr = max(curr + aux, aux);
+        mx = max(mx, curr);
     }
 
-    cout << cnt << endl;
-
+    cout << mx << endl;
+    
     return 0;
 }
