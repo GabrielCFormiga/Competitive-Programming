@@ -64,6 +64,29 @@ This repository contains solutions from the following online judges:
 
 ---
 
+### Bitmask
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Bit Operation I**](https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_A) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Bit Operation II**](https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_B) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Bit Flag**](https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_C) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Bit Mask**](https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_D) | **Bit Manipulation** | 🟢 **Easy** |
+| [**XOR World**](https://atcoder.jp/contests/abc121/tasks/abc121_d) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Bits**](https://codeforces.com/problemset/problem/484/A) | **Bit Manipulation** | 🔵 **Medium** |
+| [**XOR Guessing**](https://codeforces.com/problemset/problem/1207/E) | **Bit Manipulation** | 🔵 **Medium** |
+| [**Enumeration of Subsets I**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_A) | **Submask Enumeration** | 🟢 **Easy** |
+| [**Enumeration of Subsets II**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_B) | **Submask Enumeration** | 🟢 **Easy** |
+| [**Enumeration of Subsets III**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_C) | **Submask Enumeration** | 🟢 **Easy** |
+| [**Enumeration of Combinations**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_D) | **Submask Enumeration** | 🟢 **Easy** |
+| [**Little Girl and Maximum XOR**](https://codeforces.com/problemset/problem/276/D) | **Greedy** | 🔵 **Medium** |
+| [**And Or**](https://vjudge.net/problem/UVA-12898) | **Greedy** | 🔵 **Medium** |
+| [**XOR Emergence**](https://www.hackerrank.com/contests/algoritmos-2018-i-contest-1/challenges/xor-emergence/problem) | **Dynamic programming** | 🟢 **Easy** |
+| [**Hackers' Crackdown**](https://vjudge.net/problem/UVA-11825) | **Dynamic programming** | 🔵 **Medium** |
+
+
+---
+
 ### Data Structures
 
 | **Problem** | **Category** | **Difficulty** |
