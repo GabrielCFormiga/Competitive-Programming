@@ -6,7 +6,7 @@ The structure of the repository is simple: each folder is named according to the
 
 Additionally, most problems are mapped by **topic** and can be easily accessed in the [**Problem Set**](#Problem-Set).
 
-I have categorized the problems as **easy**, **medium**, or **hard** based on my own perspective. While these classifications are subjective, they aim to reflect the effort and thought required to solve each problem.
+I have categorized the problems as **easy**, **medium**, or **hard** based on my own perspective. While these classifications are subjective, they aim to reflect the effort and thought required to solve each problem. Sometimes, a problem that could be tagged as **easy** is actually **medium** or **hard**, as it involves recognizing properties that may not be immediately obvious.
 
 ## Judges
 
@@ -103,6 +103,7 @@ This repository contains solutions from the following online judges:
 | [**Disjoint Sets Union**](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/A) | **Disjoint Sets Union** | 🟢 **Easy** |
 | [**Disjoint Sets Union 2**](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/B) | **Disjoint Sets Union** | 🟢 **Easy** |
 | [**Experience**](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C) | **Disjoint Sets Union** | 🔵 **Medium** |
+| [**War**](https://vjudge.net/problem/UVA-10158) | **Disjoint Sets Union** | 🔴 **Hard** |
 | [**Cutting a graph**](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/D) | **Offline  Deletion** | 🔵 **Medium** |
 | [**Anansi's Cobweb**](https://acm.timus.ru/problem.aspx?space=1&num=1671) | **Offline  Deletion** | 🔵 **Medium** |
 | [**People are leaving**](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/A) | **Merge Segments** | 🟢 **Easy** |
