@@ -93,6 +93,7 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Bad Sequence**](https://codeforces.com/problemset/problem/1214/C) | **Greedy** | 🟢 **Easy** |
+| [**Uniqueness**](https://atcoder.jp/contests/abc398/tasks/abc398_c) | **Greedy** | 🟢 **Easy** |
 
 ---
 
@@ -162,6 +163,7 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**String Task**](https://codeforces.com/problemset/problem/118/A) | **Implementation** | 🟢 **Easy** |
+| [**ABCBA**](https://atcoder.jp/contests/abc398/tasks/abc398_f) | **Implementation** | 🟢 **Easy** |
 | [**Chat room**](https://codeforces.com/problemset/problem/58/A) | **Greedy** | 🟢 **Easy** |
 | [**Lucky Substring**](https://codeforces.com/problemset/problem/122/B) | **Brute Force** | 🟢 **Easy** |
 
