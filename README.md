@@ -73,6 +73,7 @@ This repository contains solutions from the following online judges:
 | [**Bit Flag**](https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_C) | **Bit Manipulation** | 🟢 **Easy** |
 | [**Bit Mask**](https://onlinejudge.u-aizu.ac.jp/problems/ITP2_10_D) | **Bit Manipulation** | 🟢 **Easy** |
 | [**XOR World**](https://atcoder.jp/contests/abc121/tasks/abc121_d) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Serval and The Formula**](https://codeforces.com/contest/2085/problem/C) | **Bit Manipulation** | 🟢 **Easy** |
 | [**Bits**](https://codeforces.com/problemset/problem/484/A) | **Bit Manipulation** | 🔵 **Medium** |
 | [**XOR Guessing**](https://codeforces.com/problemset/problem/1207/E) | **Bit Manipulation** | 🔵 **Medium** |
 | [**Enumeration of Subsets I**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_A) | **Submask Enumeration** | 🟢 **Easy** |
