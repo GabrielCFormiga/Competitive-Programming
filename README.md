@@ -128,6 +128,7 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Lucky Division**](https://codeforces.com/problemset/problem/122/A) | **Brute Force** | 🟢 **Easy** |
+| [**Soldier and Number Game**](https://codeforces.com/contest/546/problem/D) | **Prime Factorization** | 🔵 **Medium**  |
 
 ---
 
