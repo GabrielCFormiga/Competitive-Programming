@@ -128,7 +128,9 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Lucky Division**](https://codeforces.com/problemset/problem/122/A) | **Brute Force** | 🟢 **Easy** |
+| [**Medium Factorization**](https://www.spoj.com/problems/FACTCG2/) | **Prime Factorization** | 🟢 **Easy** |
 | [**Soldier and Number Game**](https://codeforces.com/contest/546/problem/D) | **Prime Factorization** | 🔵 **Medium**  |
+| [**Simple Sum**](https://www.codechef.com/problems/SMPLSUM) | **Prime Factorization** | 🔴 **Hard**  |
 
 ---
 
