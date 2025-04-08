@@ -129,6 +129,8 @@ This repository contains solutions from the following online judges:
 |-------------|--------------|----------------|
 | [**Lucky Division**](https://codeforces.com/problemset/problem/122/A) | **Brute Force** | 🟢 **Easy** |
 | [**Medium Factorization**](https://www.spoj.com/problems/FACTCG2/) | **Prime Factorization** | 🟢 **Easy** |
+| [**Simple Repetition**](https://codeforces.com/contest/2093/problem/C) | **Prime Factorization** | 🟢 **Easy** |
+| [**Ringo's Favorite Numbers 3**](https://atcoder.jp/contests/abc400/tasks/abc400_e) | **Prime Factorization** | 🟢 **Easy** |
 | [**Soldier and Number Game**](https://codeforces.com/contest/546/problem/D) | **Prime Factorization** | 🔵 **Medium**  |
 | [**Simple Sum**](https://www.codechef.com/problems/SMPLSUM) | **Prime Factorization** | 🔴 **Hard**  |
 
