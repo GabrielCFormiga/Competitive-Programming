@@ -128,6 +128,7 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Lucky Division**](https://codeforces.com/problemset/problem/122/A) | **Brute Force** | 🟢 **Easy** |
+| [**2^a b^2**](https://atcoder.jp/contests/abc400/tasks/abc400_c) | **Implementation** | 🟢 **Easy** |
 | [**Medium Factorization**](https://www.spoj.com/problems/FACTCG2/) | **Prime Factorization** | 🟢 **Easy** |
 | [**Simple Repetition**](https://codeforces.com/contest/2093/problem/C) | **Prime Factorization** | 🟢 **Easy** |
 | [**Ringo's Favorite Numbers 3**](https://atcoder.jp/contests/abc400/tasks/abc400_e) | **Prime Factorization** | 🟢 **Easy** |
