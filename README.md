@@ -125,6 +125,8 @@ This repository contains solutions from the following online judges:
 
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
+| [**Buy a Shovel**](codeforces.com/contest/732/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Is your horseshoe on the other hoof?**](https://codeforces.com/contest/228/problem/A) | **Implementation** | 🟢 **Easy** |
 | [**Young Physicist**](https://codeforces.com/problemset/problem/69/A) | **Implementation** | 🟢 **Easy** |
 | [**Shell Game**](https://codeforces.com/problemset/problem/777/A) | **Implementation** | 🟢 **Easy** |
 | [**Expression**](https://codeforces.com/problemset/problem/479/A) | **Brute Force** | 🟢 **Easy** |
