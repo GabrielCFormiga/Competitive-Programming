@@ -26,6 +26,11 @@ This repository contains solutions from the following online judges:
 - <img src="https://vjudge.net/static/bundle/00b630b2ef7c4027b5bb.png" alt="USACO" width="30" height="30"> [**USACO**](https://usaco.org/index.php)
 - <img src="https://vjudge.net/static/bundle/4b67f78de220633fd18a.ico" alt="UVa" width="30" height="30"> [**UVa**](https://uva.onlinejudge.org/)
 
+## Contests
+
+-  [I SBC São Paulo Programming Marathon](Contests/I%20SBC%20São%20Paulo%20Programming%20Marathon)
+-  [SBC Brazilian Phase Zero 2025](Contests/SBC%20Brazilian%20Phase%20Zero%202025)
+  
 ## Problem Set
 
 - [**Binary Search**](#Binary-Search)
