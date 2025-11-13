@@ -37,6 +37,7 @@ This repository contains solutions from the following online judges:
 - [**Bitmask**](#Bitmask)
 - [**Data Structures**](#Data-Structures)
 - [**Disjoint Sets Union**](#Disjoint-Sets-Union)
+- [**Dynamic Programming**](#Dynamic-Programming)
 - [**Math**](#Math)
 - [**Number Theory**](#Number-Theory)
 - [**Prefix Sums**](#Prefix-Sums)
@@ -125,6 +126,14 @@ This repository contains solutions from the following online judges:
 | [**People are leaving**](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/A) | **Merge Segments** | 🟢 **Easy** |
 | [**Parking**](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/B) | **Merge Segments** | 🟢 **Easy** |
 | [**Restructuring Company**](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/C) | **Merge Segments** | 🔵 **Medium** |
+
+---
+
+### Dynamic Programming
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Robot Customize**](https://atcoder.jp/contests/abc431/tasks/abc431_d) | **Knapsack Variation** | 🟢 **Easy** |
 
 ---
 
