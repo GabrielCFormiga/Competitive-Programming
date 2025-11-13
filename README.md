@@ -55,6 +55,7 @@ This repository contains solutions from the following online judges:
 | [**Closest to the left**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) | **Array Search** | 🟢 **Easy** |
 | [**Closest to the right**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) | **Array Search** | 🟢 **Easy** |
 | [**Fast Search**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | **Array Search** | 🔵 **Medium** |
+| [**Truck Driver**](https://atcoder.jp/contests/abc430/tasks/abc430_c) | **Lower/Upper Bound** | 🔵 **Medium** |
 | [**Interesting drink**](https://codeforces.com/contest/706/problem/B) | **Search for Valid Answers** | 🟢 **Easy** |
 | [**Packing Rectangles**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A) | **Search for Valid Answers** | 🟢 **Easy** |
 | [**Very Easy Task**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C) | **Search for Valid Answers** | 🟢 **Easy** |
