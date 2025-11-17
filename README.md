@@ -148,6 +148,7 @@ This repository contains solutions from the following online judges:
 | [**Young Physicist**](https://codeforces.com/problemset/problem/69/A) | **Implementation** | 🟢 **Easy** |
 | [**Shell Game**](https://codeforces.com/problemset/problem/777/A) | **Implementation** | 🟢 **Easy** |
 | [**Expression**](https://codeforces.com/problemset/problem/479/A) | **Brute Force** | 🟢 **Easy** |
+| [**Removal of a Sequence (Hard Version)**](https://codeforces.com/contest/2169/problem/D2) | **Implementation + Number Theory** | 🔴 **Hard** |
 
 ---
 
