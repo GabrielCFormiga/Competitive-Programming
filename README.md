@@ -112,6 +112,8 @@ This repository contains solutions from the following online judges:
 | [**Bad Sequence**](https://codeforces.com/problemset/problem/1214/C) | **Greedy** | 🟢 **Easy** |
 | [**Uniqueness**](https://atcoder.jp/contests/abc398/tasks/abc398_c) | **Greedy** | 🟢 **Easy** |
 | [**Cumulative Sum Query**](https://www.spoj.com/problems/CSUMQ/en/) | **Prefix Sums/BIT/Segtree** | 🟢 **Easy** |
+| [**Potentiometers**](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3238) | **BIT/Segtree** | 🟢 **Easy** |
+| [**Inversion Count**](https://www.spoj.com/problems/INVCNT/en/) | **BIT/Segtree** | 🟢 **Easy** |
 
 ---
 
