@@ -138,6 +138,13 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Robot Customize**](https://atcoder.jp/contests/abc431/tasks/abc431_d) | **Knapsack Variation** | 🟢 **Easy** |
+| [**Book Shop**](https://cses.fi/problemset/task/1158) | **Knapsack** | 🟢 **Easy** |
+| [**Minimizing Coins**](https://cses.fi/problemset/task/1634) | **Min DP** | 🟢 **Easy** |
+| [**Dice Combinations**](https://cses.fi/problemset/task/1633) | **Arrangement Count** | 🟢 **Easy** |
+| [**Coin Combinations I**](https://cses.fi/problemset/task/1635) | **Arrangement Count** | 🟢 **Easy** |
+| [**Coin Combinations II**](https://cses.fi/problemset/task/1636) | **Combination Count** | 🟢 **Easy** |
+| [**Grid Paths I**](https://cses.fi/problemset/task/1638) | **Upper/Left DP on Grid** | 🟢 **Easy** |
+| [**Array Description**](https://cses.fi/problemset/task/1746) | **Propagation DP** | 🟢 **Easy** |
 
 ---
 
