@@ -21,6 +21,7 @@ This repository contains solutions from the following online judges:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/800px-HackerEarth_logo.png" alt="HackerEarth" width="30" height="30"> [**HackerEarth**](https://www.hackerearth.com/challenges/)
 - <img src="https://vjudge.net/static/bundle/827e9a41ed1deb5922b5.png" alt="HackerRank" width="30" height="30"> [**HackerRank**](https://www.hackerrank.com/dashboard)
 - <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="LeetCode" width="30" height="30"> [**LeetCode**](https://leetcode.com/problemset/)
+- <img src="https://vjudge.net/static/bundle/01f0e52b64c44c1ae211.png" alt="LightOJ" width="30" height="30"> [**LightOJ**](https://lightoj.com/problems/category)
 - <img src="https://vjudge.net/static/bundle/7ca10a33e9e8213fa737.png" alt="SPOJ" width="30" height="30"> [**SPOJ**](https://www.spoj.com/)
 - <img src="https://vjudge.net/static/bundle/4365153ee3c7a254da01.ico" alt="Timus" width="30" height="30"> [**Timus**](https://timus.online/)
 - <img src="https://vjudge.net/static/bundle/00b630b2ef7c4027b5bb.png" alt="USACO" width="30" height="30"> [**USACO**](https://usaco.org/index.php)
@@ -114,6 +115,8 @@ This repository contains solutions from the following online judges:
 | [**Cumulative Sum Query**](https://www.spoj.com/problems/CSUMQ/en/) | **Prefix Sums/BIT/Segtree** | 🟢 **Easy** |
 | [**Potentiometers**](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3238) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Inversion Count**](https://www.spoj.com/problems/INVCNT/en/) | **BIT/Segtree** | 🟢 **Easy** |
+| [**Curious Robin Hood**](https://lightoj.com/problem/curious-robin-hood) | **BIT/Segtree** | 🟢 **Easy** |
+| [**Points in Rectangle**](https://lightoj.com/problem/points-in-rectangle) | **BIT2D/Segtree2D** | 🟢 **Easy** |
 
 ---
 
