@@ -118,6 +118,7 @@ This repository contains solutions from the following online judges:
 | [**Inversion Count**](https://www.spoj.com/problems/INVCNT/en/) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Curious Robin Hood**](https://lightoj.com/problem/curious-robin-hood) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Points in Rectangle**](https://lightoj.com/problem/points-in-rectangle) | **BIT2D/Segtree2D** | 🟢 **Easy** |
+| [**Card Trick**](https://www.spoj.com/problems/CTRICK/) | **BIT + K-th** | 🔵 **Medium** |
 
 ---
 
