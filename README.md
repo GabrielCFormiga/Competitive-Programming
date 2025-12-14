@@ -39,6 +39,7 @@ This repository contains solutions from the following online judges:
 - [**Data Structures**](#Data-Structures)
 - [**Disjoint Sets Union**](#Disjoint-Sets-Union)
 - [**Dynamic Programming**](#Dynamic-Programming)
+- [**Graphs**](#Graphs)
 - [**Math**](#Math)
 - [**Number Theory**](#Number-Theory)
 - [**Prefix Sums**](#Prefix-Sums)
@@ -153,6 +154,13 @@ This repository contains solutions from the following online judges:
 | [**Edit Distance**](https://cses.fi/problemset/task/1639) | **Top Down DP** | 🟢 **Easy** |
 | [**Longest Common Subsequence**](https://cses.fi/problemset/task/3403) | **Top Down DP** | 🟢 **Easy** |
 
+
+---
+
+### Graphs
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Coronavirus Spread**](https://www.codechef.com/problems/COVID19) | **BFS** | 🟢 **Easy** |
 
 ---
 
