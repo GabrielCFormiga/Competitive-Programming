@@ -32,6 +32,7 @@ This repository contains solutions from the following online judges:
 -  [I SBC São Paulo Programming Marathon](Contests/I%20SBC%20São%20Paulo%20Programming%20Marathon)
 -  [SBC Brazilian Phase Zero 2025](Contests/SBC%20Brazilian%20Phase%20Zero%202025)
 -  [2025-2026 ICPC NERC, Kyrgyzstan Qualification Contest](Contests/2025-2026%20ICPC%20NERC,%20Kyrgyzstan%20Qualification%20Contest)
+-  [2025-2026 ICPC, NERC, Northern Eurasia Finals](Contests/2025-2026%20ICPC,%20NERC,%20Northern%20Eurasia%20Finals)
   
 ## Problem Set
 
