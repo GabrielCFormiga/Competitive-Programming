@@ -38,6 +38,7 @@ This repository contains solutions from the following online judges:
 
 - [**Binary Search**](#Binary-Search)
 - [**Bitmask**](#Bitmask)
+- [**Brute Force**](#Brute-Force)
 - [**Data Structures**](#Data-Structures)
 - [**Disjoint Sets Union**](#Disjoint-Sets-Union)
 - [**Dynamic Programming**](#Dynamic-Programming)
@@ -106,6 +107,16 @@ This repository contains solutions from the following online judges:
 | [**XOR Emergence**](https://www.hackerrank.com/contests/algoritmos-2018-i-contest-1/challenges/xor-emergence/problem) | **Dynamic programming** | 🟢 **Easy** |
 | [**Hackers' Crackdown**](https://vjudge.net/problem/UVA-11825) | **Dynamic programming** | 🔵 **Medium** |
 
+
+---
+
+### Brute Force
+
+| **Problem** | **Category** | **Difficulty** |
+|-------------|--------------|----------------|
+| [**Coprime**](https://codeforces.com/problemset/problem/1742/D) | **Number Theory** | 🟢 **Easy** |
+| [**250 Thousand Tons of TNT**](https://codeforces.com/problemset/problem/1899/B) | **Number Theory** | 🟢 **Easy** |
+| [**Perfect Number**](https://codeforces.com/problemset/problem/919/B) | **Greedy** | 🟢 **Easy** |
 
 ---
 
