@@ -18,14 +18,11 @@ typedef unsigned long long llu;
 const int INF = 0x3f3f3f3f;
 const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 
-ll isqrt(ll n) {
-    ll x = (ll)sqrt((double)n);
-    while (x > 0 && x * x > n) x--;
-    while ((x + 1) * (x + 1) <= n) x++;
-    return x;
+ll __lcm(ll a, ll b) {
+    return a / __gcd(a, b) * b;
 }
 
-bool is_prime(ll x) {
+bool isprime(ll x) {
     if (x < 2) return false;
     for (ll i = 2; i * i <= x; i++) {
         if (x % i == 0) return false;
@@ -38,9 +35,14 @@ int main() { _
     cin >> n;
     
     vector<ll> vec(n);
+    ll lcm = 1;
+    set<ll> st;
     for (int i = 0; i < n; i++) {
         cin >> vec[i];
+        lcm = __lcm(lcm, vec[i]);
+        st.insert(vec[i]);
     }
+
     sort(all(vec));
 
     if (vec[0] != 1) {
@@ -48,61 +50,37 @@ int main() { _
         return 0;
     }
 
-    if (vec[0] == 1 && n == 1) {
+    if (n == 1) {
         cout << '*' << endl;
         return 0;
     }
 
-    if (n == 2) {
-        // 1 p p*p
-        if (is_prime(vec[1])) {
-            // p*p = vec[1] * vec[1]
-            cout << vec[1] * vec[1] << ' ' << vec[1] * vec[1] << endl;
-        } else {
-            // p*p = vec[1]
-            cout << vec[1] << ' ' << isqrt(vec[1]) << endl;
+    // caso especial p p^2 p^3 ... p^n-1 : falta p^n
+    if (isprime(vec[1])) {
+        ll p = vec[1];
+        bool valid = true;
+        for (int i = 2; i < n; i++) {
+            if (vec[i - 1] * p != vec[i]) {
+                valid = false;
+                break;
+            }
         }
-        return 0;
+        if (valid) {
+            cout << p * vec[n - 1] << ' ' << p * vec[n - 1] << endl;
+            return 0;
+        }       
     }
 
-    if (n == 3) {
-        if (vec[2] % vec[1] == 0) {
-            cout << vec[2] << ' ' << vec[2] / vec[1] << endl;
-        } else {
-            cout << vec[2] * vec[1] << ' ' << vec[2] * vec[1] << endl;
-        }
-        return 0;
-    }
-
-    bool ans_nao_aparece = true;
-    ll ans = vec[n - 1] * vec[1];
-    int l = 2, r = n - 2;
-    while (l <= r) {
-        if (vec[l] * vec[r] != ans) {
-            ans_nao_aparece = false;
-        }
-        l++;
-        r--;
-    }
-
-    if (ans_nao_aparece) {
-        cout << ans << ' ' << ans << endl;
-        return 0;
+    if (st.find(lcm) == st.end()) {
+        cout << lcm << ' ' << lcm << endl;
     } else {
-        ll ans = vec[n - 1];
-        map<ll, ll> mp;
         for (int i = 0; i < n; i++) {
-            mp[vec[i]] = ans / vec[i];
-        }
-        
-        for (auto p : mp) {
-            if (mp.find(p.second) == mp.end()) {
-                cout << ans << ' ' << p.second << endl;
+            if (st.find(lcm / vec[i]) == st.end()) {
+                cout << lcm << ' ' << lcm / vec[i] << endl;
                 return 0;
             }
         }
-
-        cout << ans << ' ' << isqrt(ans) << endl;
+        cout << lcm << ' ' << (ll)round(sqrt(lcm)) << endl;
     }
 
     return 0;
