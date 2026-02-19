@@ -133,7 +133,13 @@ This repository contains solutions from the following online judges:
 | [**Curious Robin Hood**](https://lightoj.com/problem/curious-robin-hood) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Points in Rectangle**](https://lightoj.com/problem/points-in-rectangle) | **BIT2D/Segtree2D** | 🟢 **Easy** |
 | [**Card Trick**](https://www.spoj.com/problems/CTRICK/) | **BIT + K-th** | 🔵 **Medium** |
-
+| [**Sliding Window Minimum**](https://cses.fi/problemset/task/3221) | **Minimum Queue** | 🟢 **Easy** |
+| [**Queries with Fixed Length**](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem) | **Minimum Queue** | 🟢 **Easy** |
+| [**Nearest Smaller Values**](https://cses.fi/problemset/task/1645) | **Monotonic Stack** | 🟢 **Easy** |
+| [**Advertisement**](https://cses.fi/problemset/task/1142) | **Monotonic Stack** | 🔵 **Medium** |
+| [**Minimum Sum**](https://atcoder.jp/contests/agc005/tasks/agc005_b?lang=en) | **Monotonic Stack** | 🔵 **Medium** |
+| [**Sum of Subarray Minimums**](https://eolymp.com/en/problems/11612) | **Monotonic Stack** | 🔴 **Hard** |
+| [**Imbalanced Array**](https://codeforces.com/problemset/problem/817/D) | **Monotonic Stack** | 🔵 **Medium** |
 ---
 
 ### Disjoint Sets Union
