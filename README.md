@@ -140,6 +140,9 @@ This repository contains solutions from the following online judges:
 | [**Minimum Sum**](https://atcoder.jp/contests/agc005/tasks/agc005_b?lang=en) | **Monotonic Stack** | 🔵 **Medium** |
 | [**Sum of Subarray Minimums**](https://eolymp.com/en/problems/11612) | **Monotonic Stack** | 🔴 **Hard** |
 | [**Imbalanced Array**](https://codeforces.com/problemset/problem/817/D) | **Monotonic Stack** | 🔵 **Medium** |
+| [**Static Range Minimum Queries**](https://cses.fi/problemset/task/1647) | **Sparse Table** | 🟢 **Easy** |
+| [**Maximum modulo equality**](https://codeforces.com/contest/2050/problem/F) | **Sparse Table** | 🟢 **Easy** |
+| [**Iva & Pav**](https://codeforces.com/problemset/problem/1878/E) | **Sparse Table** | 🟢 **Easy** |
 ---
 
 ### Disjoint Sets Union
