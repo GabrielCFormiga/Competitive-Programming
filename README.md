@@ -32,6 +32,7 @@ This repository contains solutions from the following online judges:
 
 -  [I SBC São Paulo Programming Marathon](Contests/I%20SBC%20São%20Paulo%20Programming%20Marathon)
 -  [SBC Brazilian Phase Zero 2025](Contests/SBC%20Brazilian%20Phase%20Zero%202025)
+-  [2022 ICPC Gran Premio de Mexico 1ra Fecha](Contests/2022%20ICPC%20Gran%20Premio%20de%20Mexico%201ra%20Fecha)
 -  [2023 Argentinian Programming Tournament (TAP)](Contests/2023%20Argentinian%20Programming%20Tournament%20(TAP))
 -  [2024 Argentinian Programming Tournament (TAP)](Contests/2024%20Argentinian%20Programming%20Tournament%20(TAP))
 -  [2025 Argentinian Programming Tournament (TAP)](Contests/2025%20Argentinian%20Programming%20Tournament%20(TAP))
