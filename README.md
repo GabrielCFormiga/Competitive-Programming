@@ -66,6 +66,10 @@ This repository contains solutions from the following online judges:
 | [**Closest to the right**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) | **Array Search** | 🟢 **Easy** |
 | [**Fast Search**](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | **Array Search** | 🔵 **Medium** |
 | [**Truck Driver**](https://atcoder.jp/contests/abc430/tasks/abc430_c) | **Lower/Upper Bound** | 🔵 **Medium** |
+| [**Find First and Last Position of Element in Sorted Array**](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | **Lower/Upper Bound** | 🟢 **Easy** |
+| [**Search Insert Position**](https://leetcode.com/problems/search-insert-position/) | **Lower/Upper Bound** | 🟢 **Easy** |
+| [**Find Right Interval**](https://leetcode.com/problems/find-right-interval/) | **Lower/Upper Bound** | 🔵 **Medium** |
+| [**Snuke Festival**](https://atcoder.jp/contests/abc077/tasks/arc084_a) | **Lower/Upper Bound** | 🔵 **Medium** |
 | [**Interesting drink**](https://codeforces.com/contest/706/problem/B) | **Search for Valid Answers** | 🟢 **Easy** |
 | [**Packing Rectangles**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A) | **Search for Valid Answers** | 🟢 **Easy** |
 | [**Very Easy Task**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C) | **Search for Valid Answers** | 🟢 **Easy** |
@@ -74,6 +78,14 @@ This repository contains solutions from the following online judges:
 | [**Children Holiday**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D) | **Search for Valid Answers** | 🔴 **Hard** |
 | [**String Game**](https://codeforces.com/problemset/problem/778/A) | **Search for Valid Answers** | 🔴 **Hard** |
 | [**Hamburguer**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H) | **Search for Valid Answers** | 🔴 **Hard** |
+| [**First Bad Version**](https://leetcode.com/problems/first-bad-version/) | **Search for Valid Answers** | 🟢 **Easy** |
+| [**Valid Perfect Square**](https://leetcode.com/problems/valid-perfect-square/) | **Search for Valid Answers** | 🟢 **Easy** |
+| [**Find Peak Element**](https://leetcode.com/problems/find-peak-element/) | **Search for Valid Answers** | 🔵 **Medium** |
+| [**Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/) | **Search for Valid Answers** | 🔵 **Medium** |
+| [**Aggressive Cows**](https://www.spoj.com/problems/AGGRCOW/) | **Search for Valid Answers** | 🔵 **Medium** |
+| [**Guess a Number**](https://codeforces.com/problemset/problem/416/A) | **Search for Valid Answers** | 🟢 **Easy** |
+| [**Magic Powder - 2**](https://codeforces.com/problemset/problem/670/D2) | **Search for Valid Answers** | 🔵 **Medium** |
+| [**Klee's SUPER DUPER LARGE Array**](https://codeforces.com/contest/2009/problem/E) | **Search for Valid Answers** | 🔴 **Hard** |
 | [**Ropes**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B) | **Search with Real Numbers** | 🟢 **Easy** |
 | [**Equation**](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E) | **Search with Real Numbers** | 🔵 **Medium** |
 | [**Solve it!**](https://vjudge.net/problem/UVA-10341) | **Search with Real Numbers** | 🔴 **Hard** |
@@ -103,14 +115,34 @@ This repository contains solutions from the following online judges:
 | [**Serval and The Formula**](https://codeforces.com/contest/2085/problem/C) | **Bit Manipulation** | 🟢 **Easy** |
 | [**Bits**](https://codeforces.com/problemset/problem/484/A) | **Bit Manipulation** | 🔵 **Medium** |
 | [**XOR Guessing**](https://codeforces.com/problemset/problem/1207/E) | **Bit Manipulation** | 🔵 **Medium** |
+| [**Maximizing XOR**](https://www.hackerrank.com/challenges/maximizing-xor/problem) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Flipping Bits**](https://www.hackerrank.com/challenges/flipping-bits/problem) | **Bit Manipulation** | 🟢 **Easy** |
+| [**The Great XOR**](https://www.hackerrank.com/challenges/the-great-xor/problem) | **Bit Manipulation** | 🔵 **Medium** |
+| [**Sum vs XOR**](https://www.hackerrank.com/challenges/sum-vs-xor/problem) | **Bit Manipulation** | 🔵 **Medium** |
+| [**Cow Evolution**](https://usaco.org/index.php?page=viewproblem2&cpid=941) | **Bit Manipulation** | 🔴 **Hard** |
+| [**Many Formulas**](https://atcoder.jp/contests/arc061/tasks/arc061_a) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Red Scarf**](https://atcoder.jp/contests/abc171/tasks/abc171_e) | **Bit Manipulation** | 🔵 **Medium** |
+| [**And Then There Were K**](https://codeforces.com/problemset/problem/1527/A) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Fedor and New Game**](https://codeforces.com/problemset/problem/467/B) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Raising Bacteria**](https://codeforces.com/problemset/problem/579/A) | **Bit Manipulation** | 🟢 **Easy** |
+| [**XORwice**](https://codeforces.com/problemset/problem/1421/A) | **Bit Manipulation** | 🟢 **Easy** |
+| [**Beautiful XOR**](https://codeforces.com/contest/2162/problem/C) | **Bit Manipulation** | 🔵 **Medium** |
+| [**Borya and Hanabi**](https://codeforces.com/problemset/problem/442/A) | **Bit Manipulation** | 🔵 **Medium** |
+| [**Points, Lines and Ready, Steady, Go!**](https://codeforces.com/problemset/problem/988/D) | **Bit Manipulation** | 🔵 **Medium** |
 | [**Enumeration of Subsets I**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_A) | **Submask Enumeration** | 🟢 **Easy** |
 | [**Enumeration of Subsets II**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_B) | **Submask Enumeration** | 🟢 **Easy** |
 | [**Enumeration of Subsets III**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_C) | **Submask Enumeration** | 🟢 **Easy** |
 | [**Enumeration of Combinations**](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP2_11_D) | **Submask Enumeration** | 🟢 **Easy** |
+| [**Bars**](https://vjudge.net/problem/UVA-12455) | **Submask Enumeration** | 🟢 **Easy** |
+| [**Full House 3**](https://atcoder.jp/contests/abc398/tasks/abc398_b) | **Submask Enumeration** | 🟢 **Easy** |
+| [**Preparing Olympiad**](https://codeforces.com/problemset/problem/550/B) | **Submask Enumeration** | 🟢 **Easy** |
 | [**Little Girl and Maximum XOR**](https://codeforces.com/problemset/problem/276/D) | **Greedy** | 🔵 **Medium** |
 | [**And Or**](https://vjudge.net/problem/UVA-12898) | **Greedy** | 🔵 **Medium** |
 | [**XOR Emergence**](https://www.hackerrank.com/contests/algoritmos-2018-i-contest-1/challenges/xor-emergence/problem) | **Dynamic programming** | 🟢 **Easy** |
 | [**Hackers' Crackdown**](https://vjudge.net/problem/UVA-11825) | **Dynamic programming** | 🔵 **Medium** |
+| [**Prefix GCD Maximization**](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/prefix-gcd-maximization-932aa648/) | **Dynamic programming** | 🔵 **Medium** |
+| [**Compatibility Queries**](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/compatibility-queries-0c068f8f/) | **Dynamic programming** | 🔴 **Hard** |
+| [**Close Group**](https://atcoder.jp/contests/abc187/tasks/abc187_f) | **Dynamic programming** | 🔴 **Hard** |
 
 
 ---
@@ -122,6 +154,14 @@ This repository contains solutions from the following online judges:
 | [**Coprime**](https://codeforces.com/problemset/problem/1742/D) | **Number Theory** | 🟢 **Easy** |
 | [**250 Thousand Tons of TNT**](https://codeforces.com/problemset/problem/1899/B) | **Number Theory** | 🟢 **Easy** |
 | [**Perfect Number**](https://codeforces.com/problemset/problem/919/B) | **Greedy** | 🟢 **Easy** |
+| [**Increasing Array**](https://cses.fi/problemset/task/1094) | **Greedy** | 🟢 **Easy** |
+| [**Bovine Genomics**](https://usaco.org/index.php?page=viewproblem2&cpid=741) | **Implementation** | 🟢 **Easy** |
+| [**Cow Gymnastics**](https://usaco.org/index.php?page=viewproblem2&cpid=963) | **Implementation** | 🟢 **Easy** |
+| [**Iroha's Obsession**](https://atcoder.jp/contests/abc042/tasks/abc042_c) | **Implementation** | 🟢 **Easy** |
+| [**Dreamoon and WiFi**](https://codeforces.com/problemset/problem/476/B) | **Implementation** | 🟢 **Easy** |
+| [**Games**](https://codeforces.com/contest/268/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Lucky Numbers (Easy)**](https://codeforces.com/contest/96/problem/B) | **Implementation** | 🟢 **Easy** |
+| [**Satyam and Counting**](https://codeforces.com/contest/2009/problem/D) | **Implementation** | 🔵 **Medium** |
 
 ---
 
@@ -131,9 +171,18 @@ This repository contains solutions from the following online judges:
 |-------------|--------------|----------------|
 | [**Bad Sequence**](https://codeforces.com/problemset/problem/1214/C) | **Greedy** | 🟢 **Easy** |
 | [**Uniqueness**](https://atcoder.jp/contests/abc398/tasks/abc398_c) | **Greedy** | 🟢 **Easy** |
+| [**Two City Scheduling**](https://leetcode.com/problems/two-city-scheduling/) | **Greedy** | 🟢 **Easy** |
+| [**I Am Very Busy**](https://www.spoj.com/problems/BUSYMAN/) | **Greedy** | 🟢 **Easy** |
+| [**Movie Festival II**](https://cses.fi/problemset/task/1632) | **Greedy** | 🔵 **Medium** |
+| [**Dragons**](https://codeforces.com/problemset/problem/230/A) | **Greedy** | 🟢 **Easy** |
+| [**Sereja and Dima**](https://codeforces.com/contest/381/problem/A) | **Greedy** | 🟢 **Easy** |
+| [**Qualifying Contest**](https://codeforces.com/problemset/problem/659/B) | **Greedy** | 🟢 **Easy** |
 | [**Cumulative Sum Query**](https://www.spoj.com/problems/CSUMQ/en/) | **Prefix Sums/BIT/Segtree** | 🟢 **Easy** |
 | [**Potentiometers**](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3238) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Inversion Count**](https://www.spoj.com/problems/INVCNT/en/) | **BIT/Segtree** | 🟢 **Easy** |
+| [**Mega Inversions**](https://open.kattis.com/problems/megainversions) | **BIT/Segtree** | 🔵 **Medium** |
+| [**K-Query**](https://www.spoj.com/problems/KQUERY/) | **BIT/Segtree** | 🔵 **Medium** |
+| [**Salary Queries**](https://cses.fi/problemset/task/1144) | **BIT/Segtree** | 🔵 **Medium** |
 | [**Curious Robin Hood**](https://lightoj.com/problem/curious-robin-hood) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Points in Rectangle**](https://lightoj.com/problem/points-in-rectangle) | **BIT2D/Segtree2D** | 🟢 **Easy** |
 | [**Card Trick**](https://www.spoj.com/problems/CTRICK/) | **BIT + K-th** | 🔵 **Medium** |
@@ -144,9 +193,14 @@ This repository contains solutions from the following online judges:
 | [**Minimum Sum**](https://atcoder.jp/contests/agc005/tasks/agc005_b?lang=en) | **Monotonic Stack** | 🔵 **Medium** |
 | [**Sum of Subarray Minimums**](https://eolymp.com/en/problems/11612) | **Monotonic Stack** | 🔴 **Hard** |
 | [**Imbalanced Array**](https://codeforces.com/problemset/problem/817/D) | **Monotonic Stack** | 🔵 **Medium** |
+| [**Nearest Taller**](https://atcoder.jp/contests/abc433/tasks/abc433_b) | **Monotonic Stack** | 🟢 **Easy** |
+| [**Bonfire**](https://atcoder.jp/contests/abc398/tasks/abc398_d) | **Set Simulation** | 🔵 **Medium** |
 | [**Static Range Minimum Queries**](https://cses.fi/problemset/task/1647) | **Sparse Table** | 🟢 **Easy** |
 | [**Maximum modulo equality**](https://codeforces.com/contest/2050/problem/F) | **Sparse Table** | 🟢 **Easy** |
 | [**Iva & Pav**](https://codeforces.com/problemset/problem/1878/E) | **Sparse Table** | 🟢 **Easy** |
+| [**Sereja and D**](https://www.codechef.com/problems/SEREJAD) | **Sparse Table** | 🔵 **Medium** |
+| [**Catapult that Ball**](https://www.spoj.com/problems/THRBL/) | **Sparse Table** | 🔵 **Medium** |
+| [**Ant Colony**](https://codeforces.com/contest/474/problem/F) | **Sparse Table** | 🔵 **Medium** |
 ---
 
 ### Disjoint Sets Union
@@ -171,16 +225,29 @@ This repository contains solutions from the following online judges:
 |-------------|--------------|----------------|
 | [**Robot Customize**](https://atcoder.jp/contests/abc431/tasks/abc431_d) | **Knapsack Variation** | 🟢 **Easy** |
 | [**Book Shop**](https://cses.fi/problemset/task/1158) | **Knapsack** | 🟢 **Easy** |
+| [**Knapsack 1**](https://atcoder.jp/contests/dp/tasks/dp_d) | **Knapsack** | 🟢 **Easy** |
+| [**The Values You Can Make**](https://codeforces.com/problemset/problem/687/C) | **Knapsack** | 🔵 **Medium** |
 | [**Minimizing Coins**](https://cses.fi/problemset/task/1634) | **Min DP** | 🟢 **Easy** |
 | [**Removing Digits**](https://cses.fi/problemset/task/1637) | **Min DP** | 🟢 **Easy** |
+| [**Frog 1**](https://atcoder.jp/contests/dp/tasks/dp_a) | **Min DP** | 🟢 **Easy** |
+| [**Frog 2**](https://atcoder.jp/contests/dp/tasks/dp_b) | **Min DP** | 🟢 **Easy** |
+| [**Vacation**](https://atcoder.jp/contests/dp/tasks/dp_c) | **Min DP** | 🟢 **Easy** |
 | [**Dice Combinations**](https://cses.fi/problemset/task/1633) | **Arrangement Count** | 🟢 **Easy** |
 | [**Coin Combinations I**](https://cses.fi/problemset/task/1635) | **Arrangement Count** | 🟢 **Easy** |
 | [**Coin Combinations II**](https://cses.fi/problemset/task/1636) | **Combination Count** | 🟢 **Easy** |
 | [**Grid Paths I**](https://cses.fi/problemset/task/1638) | **Upper/Left DP on Grid** | 🟢 **Easy** |
+| [**Iroha and a Grid**](https://atcoder.jp/contests/abc042/tasks/arc058_b) | **Upper/Left DP on Grid** | 🔴 **Hard** |
 | [**Array Description**](https://cses.fi/problemset/task/1746) | **Propagation DP** | 🟢 **Easy** |
 | [**Counting Towers**](https://cses.fi/problemset/task/2413) | **Propagation DP** | 🟢 **Easy** |
 | [**Edit Distance**](https://cses.fi/problemset/task/1639) | **Top Down DP** | 🟢 **Easy** |
 | [**Longest Common Subsequence**](https://cses.fi/problemset/task/3403) | **Top Down DP** | 🟢 **Easy** |
+| [**Projects**](https://cses.fi/problemset/task/1140) | **Top Down DP** | 🔵 **Medium** |
+| [**Mahmoud and a Message**](https://codeforces.com/problemset/problem/766/C) | **Top Down DP** | 🔵 **Medium** |
+| [**Maximum Subarray Sum**](https://cses.fi/problemset/task/1643) | **Kadane** | 🟢 **Easy** |
+| [**Easy Longest Increasing Subsequence**](https://www.spoj.com/problems/ELIS/) | **LIS** | 🟢 **Easy** |
+| [**Money Sums**](https://cses.fi/problemset/task/1745) | **Knapsack** | 🔵 **Medium** |
+| [**Two Sets II**](https://cses.fi/problemset/task/1093) | **Knapsack** | 🔵 **Medium** |
+| [**Removal Game**](https://cses.fi/problemset/task/1097) | **Interval DP** | 🔵 **Medium** |
 
 
 ---
@@ -189,6 +256,10 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Coronavirus Spread**](https://www.codechef.com/problems/COVID19) | **BFS** | 🟢 **Easy** |
+| [**Grass Planting**](https://usaco.org/index.php?page=viewproblem2&cpid=894) | **Trees** | 🟢 **Easy** |
+| [**Milk Factory**](https://usaco.org/index.php?page=viewproblem2&cpid=940) | **Trees** | 🔵 **Medium** |
+| [**Livestock Lineup**](https://usaco.org/index.php?page=viewproblem2&cpid=965) | **DFS** | 🔵 **Medium** |
+| [**The Great Revegetation**](https://usaco.org/index.php?page=viewproblem2&cpid=916) | **Coloring** | 🔵 **Medium** |
 
 ---
 
@@ -200,7 +271,38 @@ This repository contains solutions from the following online judges:
 | [**Is your horseshoe on the other hoof?**](https://codeforces.com/contest/228/problem/A) | **Implementation** | 🟢 **Easy** |
 | [**Young Physicist**](https://codeforces.com/problemset/problem/69/A) | **Implementation** | 🟢 **Easy** |
 | [**Shell Game**](https://codeforces.com/problemset/problem/777/A) | **Implementation** | 🟢 **Easy** |
+| [**Blocked Billboard**](https://usaco.org/index.php?page=viewproblem2&cpid=759) | **Implementation** | 🟢 **Easy** |
+| [**Square Pasture**](https://usaco.org/index.php?page=viewproblem2&cpid=918) | **Implementation** | 🟢 **Easy** |
+| [**Fence Painting**](https://usaco.org/index.php?page=viewproblem2&cpid=567) | **Implementation** | 🟢 **Easy** |
+| [**Swapity Swap**](https://usaco.org/index.php?page=viewproblem2&cpid=1013) | **Implementation** | 🟢 **Easy** |
+| [**Blocked Billboard II**](https://usaco.org/index.php?page=viewproblem2&cpid=783) | **Implementation** | 🔵 **Medium** |
+| [**Around Square**](https://atcoder.jp/contests/abc077/tasks/abc077_b) | **Implementation** | 🟢 **Easy** |
+| [**Buy a Pen**](https://atcoder.jp/contests/abc362/tasks/abc362_a) | **Implementation** | 🟢 **Easy** |
+| [**Candy Button**](https://atcoder.jp/contests/abc376/tasks/abc376_a) | **Implementation** | 🟢 **Easy** |
+| [**Children and Candies (ABC Edit)**](https://atcoder.jp/contests/abc043/tasks/abc043_a) | **Implementation** | 🟢 **Easy** |
+| [**Doors in the Center**](https://atcoder.jp/contests/abc398/tasks/abc398_a) | **Implementation** | 🟢 **Easy** |
+| [**Happy Birthday! 4**](https://atcoder.jp/contests/abc433/tasks/abc433_a) | **Implementation** | 🟢 **Easy** |
+| [**Be Together**](https://atcoder.jp/contests/arc059/tasks/arc059_a) | **Implementation** | 🔵 **Medium** |
+| [**Bear and Big Brother**](https://codeforces.com/contest/791/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Beautiful Average**](https://codeforces.com/contest/2162/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Beautiful Matrix**](https://codeforces.com/contest/263/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Black Square**](https://codeforces.com/contest/431/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Chloe and the Sequence**](https://codeforces.com/problemset/problem/743/B) | **Implementation** | 🟢 **Easy** |
+| [**Domino Piling**](https://codeforces.com/problemset/problem/50/A) | **Implementation** | 🟢 **Easy** |
+| [**Gravity Flip**](https://codeforces.com/problemset/problem/405/A) | **Implementation** | 🟢 **Easy** |
+| [**Madoka and Math Dad**](https://codeforces.com/contest/1647/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Madoka and the Elegant Gift**](https://codeforces.com/contest/1647/problem/B) | **Implementation** | 🟢 **Easy** |
+| [**Minimize**](https://codeforces.com/contest/2009/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Police Recruits**](https://codeforces.com/problemset/problem/427/A) | **Implementation** | 🟢 **Easy** |
+| [**Team**](https://codeforces.com/contest/231/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**The Legend of Freya the Frog**](https://codeforces.com/contest/2009/problem/C) | **Implementation** | 🟢 **Easy** |
+| [**Vanya and Fences**](https://codeforces.com/contest/677/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Xenia and Ringroad**](https://codeforces.com/problemset/problem/339/B) | **Implementation** | 🟢 **Easy** |
+| [**Madoka and Childish Pranks**](https://codeforces.com/contest/1647/problem/C) | **Implementation** | 🔵 **Medium** |
+| [**Line**](https://codeforces.com/problemset/problem/7/C) | **Implementation** | 🔵 **Medium** |
+| [**Serval and Final MEX**](https://codeforces.com/contest/2085/problem/B) | **Implementation** | 🔵 **Medium** |
 | [**Expression**](https://codeforces.com/problemset/problem/479/A) | **Brute Force** | 🟢 **Easy** |
+| [**Removal of a Sequence (Easy Version)**](https://codeforces.com/contest/2169/problem/D1) | **Implementation + Number Theory** | 🔵 **Medium** |
 | [**Removal of a Sequence (Hard Version)**](https://codeforces.com/contest/2169/problem/D2) | **Implementation + Number Theory** | 🔴 **Hard** |
 
 ---
@@ -210,11 +312,25 @@ This repository contains solutions from the following online judges:
 | **Problem** | **Category** | **Difficulty** |
 |-------------|--------------|----------------|
 | [**Lucky Division**](https://codeforces.com/problemset/problem/122/A) | **Brute Force** | 🟢 **Easy** |
+| [**Primal Fear**](https://www.spoj.com/problems/VECTAR8/) | **Brute Force** | 🟢 **Easy** |
+| [**Almost Prime**](https://codeforces.com/problemset/problem/26/A) | **Brute Force** | 🟢 **Easy** |
+| [**Count Primes**](https://leetcode.com/problems/count-primes/) | **Sieve** | 🟢 **Easy** |
+| [**Printing Some Primes**](https://www.spoj.com/problems/TDPRIMES/) | **Sieve** | 🟢 **Easy** |
+| [**T-primes**](https://codeforces.com/problemset/problem/230/B) | **Sieve** | 🟢 **Easy** |
+| [**Prime Multiples**](https://cses.fi/problemset/task/2185) | **Inclusion-Exclusion** | 🔵 **Medium** |
 | [**2^a b^2**](https://atcoder.jp/contests/abc400/tasks/abc400_c) | **Implementation** | 🟢 **Easy** |
+| [**Arpa's Obvious Problem and Mehrdad's Terrible Solution**](https://codeforces.com/problemset/problem/742/B) | **Implementation** | 🟢 **Easy** |
+| [**Greatest Common Divisor**](https://csacademy.com/contest/archive/task/gcd) | **GCD** | 🟢 **Easy** |
+| [**Modular GCD**](https://www.codechef.com/problems/MODGCD) | **GCD** | 🔴 **Hard** |
+| [**Orac and LCM**](https://codeforces.com/problemset/problem/1349/A) | **GCD** | 🔵 **Medium** |
 | [**Medium Factorization**](https://www.spoj.com/problems/FACTCG2/) | **Prime Factorization** | 🟢 **Easy** |
+| [**Divisor Summation**](https://www.spoj.com/problems/DIVSUM/) | **Prime Factorization** | 🟢 **Easy** |
+| [**Integer Factorization (15 Digits)**](https://www.spoj.com/problems/FACT0/) | **Prime Factorization** | 🔴 **Hard** |
 | [**Simple Repetition**](https://codeforces.com/contest/2093/problem/C) | **Prime Factorization** | 🟢 **Easy** |
 | [**Ringo's Favorite Numbers 3**](https://atcoder.jp/contests/abc400/tasks/abc400_e) | **Prime Factorization** | 🟢 **Easy** |
 | [**Soldier and Number Game**](https://codeforces.com/contest/546/problem/D) | **Prime Factorization** | 🔵 **Medium**  |
+| [**Div Game**](https://atcoder.jp/contests/abc169/tasks/abc169_d) | **Prime Factorization** | 🔵 **Medium**  |
+| [**Printing Divisors**](https://lightoj.com/problem/printing-divisors) | **Prime Factorization** | 🔵 **Medium**  |
 | [**Simple Sum**](https://www.codechef.com/problems/SMPLSUM) | **Prime Factorization** | 🔴 **Hard**  |
 
 ---
@@ -225,7 +341,9 @@ This repository contains solutions from the following online judges:
 |-------------|--------------|----------------|
 | [**Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/) | **Target Sum** | 🟢 **Easy** |
 | [**Subarray Sums II**](https://cses.fi/problemset/task/1661/) | **Target Sum** | 🟢 **Easy** |
+| [**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/) | **Target Sum** | 🟢 **Easy** |
 | [**Subarray Divisibility**](https://cses.fi/problemset/task/1662/) | **Target Divisibility** | 🟢 **Easy** |
+| [**Subarray Sums Divisible by K**](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | **Target Divisibility** | 🟢 **Easy** |
 | [**Forest Queries**](https://cses.fi/problemset/task/1652/) | **2D Prefix Sums** | 🟢 **Easy** |
 
 ---
@@ -243,6 +361,8 @@ This repository contains solutions from the following online judges:
 | [**Segment with Big Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B) | **Segment with good sum** | 🟢 **Easy** |
 | [**Number of Segments with Small Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C) | **Segment with good sum** | 🟢 **Easy** |
 | [**Number of Segments with Big Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D) | **Segment with good sum** | 🟢 **Easy** |
+| [**Restaurant Customers**](https://cses.fi/problemset/task/1619) | **Sweep Line** | 🟢 **Easy** |
+| [**Segment with Small Sum**](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A) | **Segment with good sum** | 🟢 **Easy** |
 
 ---
 
@@ -252,6 +372,23 @@ This repository contains solutions from the following online judges:
 |-------------|--------------|----------------|
 | [**String Task**](https://codeforces.com/problemset/problem/118/A) | **Implementation** | 🟢 **Easy** |
 | [**ABCBA**](https://atcoder.jp/contests/abc398/tasks/abc398_f) | **Implementation** | 🟢 **Easy** |
+| [**Big Sorting**](https://www.hackerrank.com/challenges/big-sorting/problem) | **Implementation** | 🟢 **Easy** |
+| [**Iroha and Haiku (ABC Edition)**](https://atcoder.jp/contests/abc042/tasks/abc042_a) | **Implementation** | 🟢 **Easy** |
+| [**Iroha Loves Strings (ABC Edition)**](https://atcoder.jp/contests/abc042/tasks/abc042_b) | **Implementation** | 🟢 **Easy** |
+| [**Unhappy Hacking (ABC Edit)**](https://atcoder.jp/contests/abc043/tasks/abc043_b) | **Implementation** | 🟢 **Easy** |
+| [**1122 Substring 2**](https://atcoder.jp/contests/abc433/tasks/abc433_c) | **Implementation** | 🔵 **Medium** |
+| [**Anton and Danik**](https://codeforces.com/contest/734/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Beautiful String**](https://codeforces.com/contest/2162/problem/B) | **Implementation** | 🟢 **Easy** |
+| [**Boy or Girl**](https://codeforces.com/contest/236/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**cAPS lOCK**](https://codeforces.com/contest/131/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Colorful Stones (Simplified Edition)**](https://codeforces.com/problemset/problem/265/A) | **Implementation** | 🟢 **Easy** |
+| [**Magnets**](https://codeforces.com/contest/344/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Night at the Museum**](https://codeforces.com/contest/731/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**osu!mania**](https://codeforces.com/contest/2009/problem/B) | **Implementation** | 🟢 **Easy** |
+| [**Petya and Strings**](https://codeforces.com/contest/112/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Serval and String Theory**](https://codeforces.com/contest/2085/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Stones on the Table**](https://codeforces.com/contest/266/problem/A) | **Implementation** | 🟢 **Easy** |
+| [**Word**](https://codeforces.com/contest/59/problem/A) | **Implementation** | 🟢 **Easy** |
 | [**Chat room**](https://codeforces.com/problemset/problem/58/A) | **Greedy** | 🟢 **Easy** |
 | [**Lucky Substring**](https://codeforces.com/problemset/problem/122/B) | **Brute Force** | 🟢 **Easy** |
 
