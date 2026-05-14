@@ -186,6 +186,7 @@ This repository contains solutions from the following online judges:
 | [**Curious Robin Hood**](https://lightoj.com/problem/curious-robin-hood) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Range Update Queries**](https://cses.fi/problemset/task/1651/) | **Range Update BIT** | 🟢 **Easy** |
 | [**Salary Queries**](https://cses.fi/problemset/task/1144) | **BIT + Coordinate Compression** | 🔵 **Medium** |
+| [**Pashmak and Parmida's problem**](https://codeforces.com/contest/459/problem/D) | **BIT + Coordinate Compression** | 🔵 **Medium** |
 | [**Crayon**](https://www.spoj.com/problems/CRAYON/) | **BIT + Coordinate Compression** | 🔵 **Medium** |
 | [**Points in Rectangle**](https://lightoj.com/problem/points-in-rectangle) | **BIT2D/Segtree2D** | 🟢 **Easy** |
 | [**Card Trick**](https://www.spoj.com/problems/CTRICK/) | **BIT + K-th** | 🔵 **Medium** |
