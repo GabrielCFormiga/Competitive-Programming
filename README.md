@@ -27,6 +27,7 @@ This repository contains solutions from the following online judges:
 - <img src="https://vjudge.net/static/bundle/4365153ee3c7a254da01.ico" alt="Timus" width="30" height="30"> [**Timus**](https://timus.online/)
 - <img src="https://vjudge.net/static/bundle/00b630b2ef7c4027b5bb.png" alt="USACO" width="30" height="30"> [**USACO**](https://usaco.org/index.php)
 - <img src="https://vjudge.net/static/bundle/4b67f78de220633fd18a.ico" alt="UVa" width="30" height="30"> [**UVa**](https://uva.onlinejudge.org/)
+- <img src="https://vjudge.net/static/bundle/84e15ca8b95e0d77954b.ico" alt="Yosupo" width="30" height="30"> [**Yosupo**](https://judge.yosupo.jp/)
 
 ## Contests
 
@@ -182,8 +183,10 @@ This repository contains solutions from the following online judges:
 | [**Inversion Count**](https://www.spoj.com/problems/INVCNT/en/) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Mega Inversions**](https://open.kattis.com/problems/megainversions) | **BIT/Segtree** | 🔵 **Medium** |
 | [**K-Query**](https://www.spoj.com/problems/KQUERY/) | **BIT/Segtree** | 🔵 **Medium** |
-| [**Salary Queries**](https://cses.fi/problemset/task/1144) | **BIT/Segtree** | 🔵 **Medium** |
 | [**Curious Robin Hood**](https://lightoj.com/problem/curious-robin-hood) | **BIT/Segtree** | 🟢 **Easy** |
+| [**Range Update Queries**](https://cses.fi/problemset/task/1651/) | **Range Update BIT** | 🟢 **Easy** |
+| [**Salary Queries**](https://cses.fi/problemset/task/1144) | **BIT + Coordinate Compression** | 🔵 **Medium** |
+| [**Crayon**](https://www.spoj.com/problems/CRAYON/) | **BIT + Coordinate Compression** | 🔵 **Medium** |
 | [**Points in Rectangle**](https://lightoj.com/problem/points-in-rectangle) | **BIT2D/Segtree2D** | 🟢 **Easy** |
 | [**Card Trick**](https://www.spoj.com/problems/CTRICK/) | **BIT + K-th** | 🔵 **Medium** |
 | [**Sliding Window Minimum**](https://cses.fi/problemset/task/3221) | **Minimum Queue** | 🟢 **Easy** |
