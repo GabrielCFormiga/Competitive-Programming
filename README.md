@@ -336,6 +336,11 @@ This repository contains solutions from the following online judges:
 | [**Div Game**](https://atcoder.jp/contests/abc169/tasks/abc169_d) | **Prime Factorization** | 🔵 **Medium**  |
 | [**Printing Divisors**](https://lightoj.com/problem/printing-divisors) | **Prime Factorization** | 🔵 **Medium**  |
 | [**Simple Sum**](https://www.codechef.com/problems/SMPLSUM) | **Prime Factorization** | 🔴 **Hard**  |
+| [**Exponentiation**](https://cses.fi/problemset/task/1095) | **Binary Exponentiation** | 🟢 **Easy** |
+| [**MODEX**](https://vjudge.net/problem/UVA-1230) | **Binary Exponentiation** | 🟢 **Easy** |
+| [**The Last Digit**](https://www.spoj.com/problems/LASTDIG/) | **Binary Exponentiation** | 🟢 **Easy** |
+| [**Tiles**](https://codeforces.com/contest/1178/problem/C) | **Binary Exponentiation** | 🟢 **Easy** |
+| [**Exponentiation II**](https://cses.fi/problemset/task/1712) | **Fermat's Little Theorem** | 🟢 **Easy** |
 
 ---
 
