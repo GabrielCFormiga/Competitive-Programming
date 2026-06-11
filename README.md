@@ -185,6 +185,10 @@ This repository contains solutions from the following online judges:
 | [**K-Query**](https://www.spoj.com/problems/KQUERY/) | **BIT/Segtree** | 🔵 **Medium** |
 | [**Curious Robin Hood**](https://lightoj.com/problem/curious-robin-hood) | **BIT/Segtree** | 🟢 **Easy** |
 | [**Range Update Queries**](https://cses.fi/problemset/task/1651/) | **Range Update BIT** | 🟢 **Easy** |
+| [**Static Range Sum Queries**](https://cses.fi/problemset/task/1646) | **Prefix Sums** | 🟢 **Easy** |
+| [**Range XOR Queries**](https://cses.fi/problemset/task/1650) | **Prefix XOR** | 🟢 **Easy** |
+| [**Dynamic Range Sum Queries**](https://cses.fi/problemset/task/1648) | **BIT** | 🟢 **Easy** |
+| [**Dynamic Range Minimum Queries**](https://cses.fi/problemset/task/1649) | **Segment Tree** | 🟢 **Easy** |
 | [**Salary Queries**](https://cses.fi/problemset/task/1144) | **BIT + Coordinate Compression** | 🔵 **Medium** |
 | [**Pashmak and Parmida's problem**](https://codeforces.com/contest/459/problem/D) | **BIT + Coordinate Compression** | 🔵 **Medium** |
 | [**Crayon**](https://www.spoj.com/problems/CRAYON/) | **BIT + Coordinate Compression** | 🔵 **Medium** |
