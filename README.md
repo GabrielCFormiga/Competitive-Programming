@@ -189,6 +189,8 @@ This repository contains solutions from the following online judges:
 | [**Range XOR Queries**](https://cses.fi/problemset/task/1650) | **Prefix XOR** | 🟢 **Easy** |
 | [**Dynamic Range Sum Queries**](https://cses.fi/problemset/task/1648) | **BIT** | 🟢 **Easy** |
 | [**Dynamic Range Minimum Queries**](https://cses.fi/problemset/task/1649) | **Segment Tree** | 🟢 **Easy** |
+| [**Hotel Queries**](https://cses.fi/problemset/task/1147) | **Segment Tree Walk** | 🔵 **Medium** |
+| [**List Removals**](https://cses.fi/problemset/task/1749) | **Segment Tree Walk** | 🔵 **Medium** |
 | [**Salary Queries**](https://cses.fi/problemset/task/1144) | **BIT + Coordinate Compression** | 🔵 **Medium** |
 | [**Pashmak and Parmida's problem**](https://codeforces.com/contest/459/problem/D) | **BIT + Coordinate Compression** | 🔵 **Medium** |
 | [**Crayon**](https://www.spoj.com/problems/CRAYON/) | **BIT + Coordinate Compression** | 🔵 **Medium** |
