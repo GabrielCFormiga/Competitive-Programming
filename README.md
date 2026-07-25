@@ -39,6 +39,7 @@ This repository contains solutions from the following online judges:
 -  [2025 Argentinian Programming Tournament (TAP)](Contests/2025%20Argentinian%20Programming%20Tournament%20(TAP))
 -  [2025-2026 ICPC NERC, Kyrgyzstan Qualification Contest](Contests/2025-2026%20ICPC%20NERC,%20Kyrgyzstan%20Qualification%20Contest)
 -  [2025-2026 ICPC, NERC, Northern Eurasia Finals](Contests/2025-2026%20ICPC,%20NERC,%20Northern%20Eurasia%20Finals)
+-  [5º Maratona PPCI de Programação (UTFPR-TD)](Contests/5%C2%BA%20Maratona%20PPCI%20de%20Programacao%20(UTFPR-TD))
   
 ## Problem Set
 
