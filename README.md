@@ -31,15 +31,17 @@ This repository contains solutions from the following online judges:
 
 ## Contests
 
--  [I SBC São Paulo Programming Marathon](Contests/I%20SBC%20São%20Paulo%20Programming%20Marathon)
--  [SBC Brazilian Phase Zero 2025](Contests/SBC%20Brazilian%20Phase%20Zero%202025)
 -  [2022 ICPC Gran Premio de Mexico 1ra Fecha](Contests/2022%20ICPC%20Gran%20Premio%20de%20Mexico%201ra%20Fecha)
 -  [2023 Argentinian Programming Tournament (TAP)](Contests/2023%20Argentinian%20Programming%20Tournament%20(TAP))
 -  [2024 Argentinian Programming Tournament (TAP)](Contests/2024%20Argentinian%20Programming%20Tournament%20(TAP))
 -  [2025 Argentinian Programming Tournament (TAP)](Contests/2025%20Argentinian%20Programming%20Tournament%20(TAP))
 -  [2025-2026 ICPC NERC, Kyrgyzstan Qualification Contest](Contests/2025-2026%20ICPC%20NERC,%20Kyrgyzstan%20Qualification%20Contest)
 -  [2025-2026 ICPC, NERC, Northern Eurasia Finals](Contests/2025-2026%20ICPC,%20NERC,%20Northern%20Eurasia%20Finals)
+-  [2026 ICPC South America, Brazil First Phase](Contests/2026%20ICPC%20South%20America,%20Brazil%20First%20Phase)
 -  [5º Maratona PPCI de Programação (UTFPR-TD)](Contests/5%C2%BA%20Maratona%20PPCI%20de%20Programacao%20(UTFPR-TD))
+-  [I Maratona Nordestina de Programação — 1st Northeastern Brazil Programming Contest](Contests/I%20Maratona%20Nordestina%20de%20Programa%C3%A7%C3%A3o%20%E2%80%94%201st%20Northeastern%20Brazil%20Programming%20Contest)
+-  [I SBC São Paulo Programming Marathon](Contests/I%20SBC%20São%20Paulo%20Programming%20Marathon)
+-  [SBC Brazilian Phase Zero 2025](Contests/SBC%20Brazilian%20Phase%20Zero%202025)
   
 ## Problem Set
 
