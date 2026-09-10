@@ -6,6 +6,8 @@ The structure of the repository is simple: each folder is named according to the
 
 Additionally, most problems are mapped by **topic** and can be easily accessed in the [**Problem Set**](#Problem-Set).
 
+There are also [**Sheets**](#Sheets): curated problem lists focused on a single **technique**, meant to be solved in order to build intuition on that topic.
+
 I have categorized the problems as **easy**, **medium**, or **hard** based on my own perspective. While these classifications are subjective, they aim to reflect the effort and thought required to solve each problem. Sometimes, a problem that could be tagged as **easy** is actually **medium** or **hard**, as it involves recognizing properties that may not be immediately obvious.
 
 ## Judges
@@ -43,6 +45,12 @@ This repository contains solutions from the following online judges:
 -  [I SBC São Paulo Programming Marathon](Contests/I%20SBC%20São%20Paulo%20Programming%20Marathon)
 -  [SBC Brazilian Phase Zero 2025](Contests/SBC%20Brazilian%20Phase%20Zero%202025)
   
+## Sheets
+
+Curated problem lists by **topic**. See the [**Sheet index**](Sheet) for progress on each one.
+
+-  [Custom Comparators and Coordinate Compression](Sheet/Custom%20Comparators%20and%20Coordinate%20Compression)
+
 ## Problem Set
 
 - [**Binary Search**](#Binary-Search)
