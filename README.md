@@ -222,6 +222,7 @@ Curated problem lists by **topic**. See the [**Sheet index**](Sheet) for progres
 | [**Sereja and D**](https://www.codechef.com/problems/SEREJAD) | **Sparse Table** | 🔵 **Medium** |
 | [**Catapult that Ball**](https://www.spoj.com/problems/THRBL/) | **Sparse Table** | 🔵 **Medium** |
 | [**Ant Colony**](https://codeforces.com/contest/474/problem/F) | **Sparse Table** | 🔵 **Medium** |
+| [**Range Kth Smallest**](https://judge.yosupo.jp/problem/range_kth_smallest) | **Wavelet Tree** | 🔵 **Medium** |
 ---
 
 ### Disjoint Sets Union
